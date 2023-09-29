@@ -1,0 +1,5 @@
+3
+1 3 Entree Sushi 5.00 Dessert Mochi 3.50 Appetizer Tempura 3.00
+2 1 Entree Pizza 1.00
+3 2 Dessert Cookies 4.50 Drinks Sprite 6.00
+
